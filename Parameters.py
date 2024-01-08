@@ -1,0 +1,1 @@
+osim_path = "D:\\Shoulder_ER_IR\\Analysis\\results\\00IB\_models\\wu_na_scaled_markers.osim"
